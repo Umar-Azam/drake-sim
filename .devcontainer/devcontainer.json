@@ -1,4 +1,5 @@
 {
+    "name": "Drake Simulation Environment",
     "build": {
         "dockerfile": "./Dockerfile",
         "context": "."
